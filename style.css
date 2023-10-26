@@ -28,6 +28,7 @@ body {
 
 .header {
    font-size: 32px;
+   text-align: center;
    font-weight: 700;
    font-family: 'Barlow', sans-serif;
    font-family: 'IBM Plex Sans', sans-serif;
