@@ -9,7 +9,10 @@ body {
 
 #newplay {
    padding: 8px .8em;
-   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+   font-family: 'Barlow', sans-serif;
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
    font-size: 13px;
    font-weight: 400;
 }
@@ -17,13 +20,19 @@ body {
 #result {
    font-size: 18px;
    font-weight: 700;
-   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+   font-family: 'Barlow', sans-serif;
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
 }
 
 .header {
    font-size: 32px;
    font-weight: 700;
-   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+   font-family: 'Barlow', sans-serif;
+   font-family: 'IBM Plex Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
 }
 
 .content {
