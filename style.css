@@ -1,0 +1,35 @@
+body {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   height: 100vh;
+   gap: 10vh;
+   margin-top: 30vh;
+}
+
+#newplay {
+   padding: 8px .8em;
+   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+   font-size: 13px;
+   font-weight: 400;
+}
+
+#result {
+   font-size: 18px;
+   font-weight: 700;
+   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+}
+
+.header {
+   font-size: 32px;
+   font-weight: 700;
+   font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+}
+
+.content {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 3vh;
+}
